@@ -1,0 +1,14 @@
+// Les commentaires en SASS sont invisible sauf si on utilise les mêmes balises de commentaires qu'en CSS.
+/*Exemple de modif du SASS*/
+html{
+    font-size: 15px;
+}
+
+//Les liens de parentés dans sass peuvent se faire dans le même "espace" grâce à l'indentation
+header {
+    background-color: aqua;
+    li {
+        font-size: 20px;
+        color: grey;
+    }
+}

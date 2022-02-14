@@ -1,0 +1,14 @@
+/*Exemple de modif du SASS*/
+html {
+  font-size: 15px;
+}
+
+header {
+  background-color: aqua;
+}
+
+header li {
+  font-size: 20px;
+  color: grey;
+}
+/*# sourceMappingURL=style.css.map */
